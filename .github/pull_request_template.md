@@ -11,7 +11,6 @@
     - SseService 생성
     - ChatService에 코드 추가
 
-
 <br/>
 
 ## 👀변경 사항
@@ -21,7 +20,6 @@
         - /api/sse/subscribe/**
 
 <br/>
-
 
 
 ## #️⃣관련 이슈
