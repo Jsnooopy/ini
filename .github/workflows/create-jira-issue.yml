@@ -57,6 +57,7 @@ jobs:
             ${{ github.event.issue.body }}
           mode: md2jira
 
+
       # 6) parent가 비어있으면 Jira에서 400 터지므로, "조건부 fields"를 만들자
       - name: Build Jira fields JSON (optional parent)
         id: fields
